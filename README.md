@@ -1,0 +1,2 @@
+主要想要透過Google Apps Script與Line的應用，在Line輸入每日該紀錄的項目，自動回寫到Google試算表
+後續再應用到Google行事曆，可以做反向的自動約會提醒
