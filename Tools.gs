@@ -1,5 +1,5 @@
-const LINE_CHANNEL_ACCESS_TOKEN = 'GXMcQVZp6p+J8nWNTZGSzRUOQdi5XSqjtd4+RsaB0ffpTpc+9HsD8WH/JY2cWdn4zmN3P2Tgsp5mMrQTf+iqA5bJXETcYS1QVbPKIYvsCnf5C0Igdo53w6GRZSneZEIAkxGULWstjcJkInwDzzVOeAdB04t89/1O/w1cDnyilFU=';
-const GOOGLE_SHEET_ID = '1s66PrpkHCcXc1FxAu3_4AkK3TC817kOR5OmREanRyh4';
+const LINE_CHANNEL_ACCESS_TOKEN = '輸入Line_channel_access_token';
+const GOOGLE_SHEET_ID = '輸入Google試算表Id';
 
 function getNowDateTime() {
   var now = new Date();
